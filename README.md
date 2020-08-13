@@ -1,0 +1,1 @@
+•	Made a tic tac toe game by using the basics of python . There is two modes dual mode and single mode.in dual mode two player can play and in single mode computer computer randomly place the symbols.
